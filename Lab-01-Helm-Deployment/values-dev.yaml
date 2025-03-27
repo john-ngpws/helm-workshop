@@ -2,4 +2,4 @@ replicas: 1
 configmap:
   environment: dev
 service:
-  nodePort: 5000
+  nodePort: 30010
